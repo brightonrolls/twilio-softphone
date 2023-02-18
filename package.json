@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "ruby bunle install gemfile.lock",
+        "build": "bundle install gemfile.lock",
         "test": "echo",
         "start": "node index.js"
     },
